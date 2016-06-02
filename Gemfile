@@ -1,7 +1,1 @@
-source 'https://rubygems.org'
-gem 'sinatra'
-gem 'haml'
-gem 'boxr'
-gem 'pry'
-gem 'asciiart'
-gem 'watir'
+/Users/voodoologic/Work/global_utilities/Gemfile
